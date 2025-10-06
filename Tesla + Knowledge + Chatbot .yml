@@ -1,7 +1,7 @@
 app:
   description: Tesla Cybertruck RAG or Retrieval-Augmented Generation system - Used
     to prevent or minimize  hallucinations
-  icon: face_with_monocle
+  icon: 🤖
   icon_background: '#FFEAD5'
   mode: advanced-chat
   name: 'Tesla + Knowledge + Chatbot '
@@ -121,7 +121,7 @@ workflow:
     nodes:
     - data:
         desc: Define the initial parameters for launching a workflow
-        selected: false
+        selected: true
         title: Start
         type: start
         variables: []
